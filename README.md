@@ -66,11 +66,6 @@ Actualmente buscando mi primera oportunidad profesional como Desarrollador Front
 </p>
 
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=lautaro-ruspil&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-
 ---
 
 ## 📫 Contacto

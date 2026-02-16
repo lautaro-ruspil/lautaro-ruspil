@@ -62,9 +62,14 @@ Actualmente buscando mi primera oportunidad profesional como Desarrollador Front
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=lautaro-ruspil&theme=tokyonight&hide_border=true" /> 
-  <img src="https://streak-stats.demolab.com?user=lautaro-ruspil&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lautaro-ruspil&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lautaro-ruspil&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=lautaro-ruspil&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
 
 ---
 

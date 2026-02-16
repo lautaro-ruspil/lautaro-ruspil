@@ -1,64 +1,65 @@
-<h1 align="center">Hi 👋, I'm Lautaro Ruspil</h1>
+<h1 align="center">👋 Hola, soy Lautaro Ruspil</h1>
 
 <h3 align="center">
-Full Stack Developer focused on Front-End development.<br/>
-I build scalable, accessible and production-ready web applications.<br/>
-Currently seeking my first professional opportunity as a Front-End Developer.
+Desarrollador Full Stack enfocado en Front-End.<br/>
+Construyo aplicaciones web escalables, accesibles y listas para producción.<br/>
+Actualmente buscando mi primera oportunidad profesional como Desarrollador Front-End.
 </h3>
 
 ---
 
-## 🚀 About Me
+## 🚀 Sobre mí
 
-- 🔭 Currently building **production-ready Front-End projects with React + TypeScript**
-- 🌱 Deepening my knowledge in **Advanced React patterns, architecture & performance**
-- 🧠 Strong focus on **clean code, accessibility and maintainable UI systems**
-- 💼 Open to my first opportunity as a **Front-End Developer**
+- 🔭 Desarrollando proyectos Front-End con **React + TypeScript**
+- 🌱 Profundizando en **arquitectura Front-End, patrones avanzados y optimización de rendimiento**
+- 🧠 Foco fuerte en **código limpio, componentes reutilizables y buenas prácticas**
+- 💼 Abierto a oportunidades como **Desarrollador Front-End**
 
 ---
 
 ## 🌐 Portfolio
 
-🔗 **Live Projects:**  
-👉 https://lautaro-ruspil.web.app  
+👉 **Ver proyectos en vivo:**  
+🔗 https://lautaro-ruspil.web.app
 
 ---
 
-## 💬 Tech Focus
+## 🛠 Tecnologías Principales
 
-### 🖥 Front-End
-- React
-- TypeScript
-- Tailwind CSS
-- Vite
-- JavaScript (ES6+)
+### 🎨 Front-End
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
+</p>
 
 ### 🧪 Testing
-- Vitest
-- Testing Library
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="40" height="40"/>
+</p>
 
-### 🔧 Back-End (Foundations)
-- Node.js
-- Express
-- MongoDB
-- SQL
+### ⚙ Backend & Base de Datos
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+</p>
 
-### ⚙ Tools
-- Git
-- Firebase
-- Figma
-- Postman
-
----
-
-## 📫 Contact
-
-- 📧 lauruspil@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/lautaro-ruspil  
+### 🔧 Herramientas
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" height="40"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estadísticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lautaro-ruspil&show_icons=true&hide_border=true" height="150"/>
@@ -67,7 +68,13 @@ Currently seeking my first professional opportunity as a Front-End Developer.
 
 ---
 
-## 🎯 Professional Goal
+## 📫 Contacto
 
-I aim to join a team where I can contribute with clean, scalable front-end solutions, continue improving my architecture skills and build high-quality user experiences.
+- 📧 lauruspil@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/lautaro-ruspil  
 
+---
+
+## 🎯 Objetivo Profesional
+
+Formar parte de un equipo donde pueda aportar soluciones Front-End escalables, seguir creciendo en arquitectura y contribuir a crear experiencias de usuario de alto nivel.
